@@ -1,5 +1,9 @@
 .container{
+    display: flex;
     background-color: lightblue;
+    justify-content: center;
+    align-items: center;
+    
 }
 .c1{
     background-color:rgb(63, 188, 255);
